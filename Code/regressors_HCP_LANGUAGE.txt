@@ -1,0 +1,10 @@
+NumRegressors 7
+
+cue.txt 
+response_story.txt 
+response_math.txt 
+question_story.txt 
+question_math.txt 
+present_story.txt 
+present_math.txt 
+
